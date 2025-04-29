@@ -136,4 +136,4 @@ async def health_check():
         r.ping()
         return {"status": "healthy"}
     except RedisError:
-        raise HTTPException(status_code=503, detail="Redis connection error")
+        raise HTTPException(status_code=503, detail="Redis connection error") 
