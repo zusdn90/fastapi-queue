@@ -173,3 +173,7 @@ X-Token: my-secret-token
 ## 📧 문의
 
 궁금한 점이나 제안 사항은 [gusdn90@gmail.com](mailto:gusdn90@gmail.com) 으로 문의 주세요.
+
+## 참고
+uv 사용법: https://rudaks.tistory.com/entry/python%EC%9D%98-uv-%EC%82%AC%EC%9A%A9%EB%B2%95
+cursor ai에 mcp 연동: https://tiaz.dev/ai/2
